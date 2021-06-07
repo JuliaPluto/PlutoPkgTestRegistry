@@ -1,0 +1,6 @@
+name = "PlutoPkgTestRegistry"
+uuid = "96d04d5f-8721-475f-89c4-5ee455d3eda0"
+repo = "https://github.com/JuliaPluto/PlutoPkgTestRegistry.git"
+description = "Small registry to test Pluto's built-in package manager."
+
+[packages]
