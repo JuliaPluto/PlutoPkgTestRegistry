@@ -8,3 +8,4 @@ description = "Small registry to test Pluto's built-in package manager."
 419c6f8d-b8cd-4309-abdc-cee491252f94 = { name = "PlutoPkgTestA", path = "P/PlutoPkgTestA" }
 7007ab80-a928-4ddc-beec-8dd20f5a112e = { name = "PlutoPkgTestB", path = "P/PlutoPkgTestB" }
 7a5088c3-10ea-4f7a-9b2d-10bc1f9f26b0 = { name = "PlutoPkgTestD", path = "P/PlutoPkgTestD" }
+c2cad900-fb9f-4ca5-aae8-51fdc188dc32 = { name = "PlutoPkgTestE", path = "P/PlutoPkgTestE" }

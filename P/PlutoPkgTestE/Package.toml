@@ -1,0 +1,3 @@
+name = "PlutoPkgTestE"
+uuid = "c2cad900-fb9f-4ca5-aae8-51fdc188dc32"
+repo = "https://github.com/JuliaPluto/PlutoPkgTestE.jl.git"
