@@ -4,5 +4,6 @@ repo = "https://github.com/JuliaPluto/PlutoPkgTestRegistry.git"
 description = "Small registry to test Pluto's built-in package manager."
 
 [packages]
+18c53ed2-8479-4d56-bd92-ce69275a063b = { name = "PlutoPkgTestC", path = "P/PlutoPkgTestC" }
 419c6f8d-b8cd-4309-abdc-cee491252f94 = { name = "PlutoPkgTestA", path = "P/PlutoPkgTestA" }
 7007ab80-a928-4ddc-beec-8dd20f5a112e = { name = "PlutoPkgTestB", path = "P/PlutoPkgTestB" }
