@@ -11,6 +11,7 @@ Registered are:
 - [PlutoPkgTestC.jl](https://github.com/JuliaPluto/PlutoPkgTestC.jl)
 - [PlutoPkgTestD.jl](https://github.com/JuliaPluto/PlutoPkgTestD.jl)
 - [PlutoPkgTestE.jl](https://github.com/JuliaPluto/PlutoPkgTestE.jl)
+- [PlutoPkgTestErrorA.jl](https://github.com/JuliaPluto/PlutoPkgTestErrorA.jl) (will `error()` when you import it)
 
 With compatibilities:
 
