@@ -1,0 +1,3 @@
+name = "PlutoPkgTestErrorA"
+uuid = "357334e5-48dd-40f7-83b6-11401a39de33"
+repo = "https://github.com/JuliaPluto/PlutoPkgTestErrorA.jl.git"
