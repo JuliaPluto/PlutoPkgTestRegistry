@@ -19,3 +19,6 @@ With compatibilities:
 - `B` depends on `A`@`0.2,0.3`: https://github.com/JuliaPluto/PlutoPkgTestRegistry/blob/main/P/PlutoPkgTestB/Compat.toml
 - `C` depends on `A`@`0.2`: https://github.com/JuliaPluto/PlutoPkgTestRegistry/blob/main/P/PlutoPkgTestC/Compat.toml
 - `D` and `E` have no compat bounds yet
+
+**Unregistered:**
+- [PlutoPkgTestF.jl](https://github.com/JuliaPluto/PlutoPkgTestF.jl)
